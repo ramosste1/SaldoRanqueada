@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Big+Shoulders+Display:wght@100&family=Chakra+Petch:wght@300;400;500&family=Lexend+Deca:wght@100;200&family=Outfit:wght@100;200;300;400;500;700&family=Raleway:wght@100;200;300&family=Roboto:ital,wght@0,100;0,400;1,100&display=swap');
+
+body {font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Big Shoulders Display', sans-serif;
+    font-family: 'Chakra Petch', sans-serif;
+    font-family: 'Lexend Deca', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(220, 197, 241);
+}
+
+main {
+    text-align: center;
+    margin: 5px;
+}
+
+input {
+    border-radius: 5px;
+}
